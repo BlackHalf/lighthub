@@ -1,3 +1,9 @@
+
+#define HOMETOPIC  "/myhome"
+#define MODBUS_DISABLE
+#define MY_CONFIG_SERVER 192.168.1.15
+
+
 // Configuration of drivers enabled
 #ifndef PIO_SRC_REV
 #define PIO_SRC_REV v0.999
